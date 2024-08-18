@@ -2,7 +2,7 @@
 
 **1. Project Vision & Impact**  
 Explain the larger vision behind the project. For example:
-"This AI-driven system aims to revolutionize agriculture by providing farmers with smart recommendations on what crops to grow based on real-time climate data, soil conditions, and geographic factors. This will promote sustainable farming practices, optimize yields, and support food security."
+"This AI-driven system aims to revolutionize agriculture by providing farmers with smart recommendations on what crops to grow based on real-time climate data, soil conditions, and geographic factors. This will promote sustainable farming practices, optimize yields, and support food security."  
   **2. Use Case Scenarios**  
 Provide real-world use cases.
 "Farmers in regions experiencing unpredictable climate shifts can use the system to adjust crop planning, while agricultural planners can use predictions to optimize regional food production."
